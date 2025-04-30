@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🟩 Bachelor of Computer Engineering<br>🟩 Currently pursuing B.E. in Computer Engineering<br>🟩 Also pursuing a Java Full Stack Development course<br>🟩 Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming<br>🟩 Hands-on experience with C, Java, HTML, CSS, JavaScript, and SQL<br>🟩 Eager to explore new technologies and continuously upskill<br>🟩 Quick learner with strong problem-solving and debugging skills<br>🟩 Effective team player with good communication and collaboration abilities<br>🟩 Seeking coding challenges and real-world software development exposure<br>🟩 Open to internships or entry-level roles in software development or web technologies<br>🟩 Hobbies: Video games, Editing, Exploring tech trends, and Blogging about code
 
 
